@@ -8,7 +8,8 @@ Bachelor of Engineering in Information Technology
 ## Projects
 
 ### 1.Customer Churn Analysis for a Bank
-<u>[Link to github repo]</u>(https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank)
+[<u>Link to github repo</u>](https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank)
+
 #### Overview
 This project leverages a bank's dataset to analyze customer churn. The primary objective is to calculate the churn rate across different variables, identify key factors influencing churn, and provide actionable recommendations to reduce the churn rate.
 
@@ -42,15 +43,15 @@ This project leverages a bank's dataset to analyze customer churn. The primary o
 - Investigate the reasons for high churn rate in germany and develop region-specific strategies to retain customers.
 - Develop Targeted offerings for middle-aged customers. 
 
-
 ### 2.Personal-Finance 
-<u>[Link to github repo]</u>(https://github.com/Shaz-Techie/Personal-Finance)
+[<u>Link to github repo</u>](https://github.com/Shaz-Techie/Personal-Finance)
 
 #### Overview
 This project leverages a person's income, expenditure and savings dataset to analyse their saving and expenditure behaviour.
 
-#### Dataset Used
-[Dataset](https://github.com/Shaz-Techie/Personal-Finance/blob/main/Finance%20Sheet.xlsx)
+#### Images of Dashboard
+  ![Finance Dashboard](https://github.com/user-attachments/assets/e77a69c4-47ca-478a-a8f4-9268f86e7b91)
+  ![Finance Dashboard 2](https://github.com/user-attachments/assets/b294c0b8-59e9-4be4-af16-a6dca745b2bc)
 
 #### Requirements
 - What is the Total Income till date.
@@ -60,13 +61,6 @@ This project leverages a person's income, expenditure and savings dataset to ana
 - Check whether the person have saved the target amount over time.
 - Which component has highest share in Expenses.
 - Which component has highest share in Savings.
-
-#### Dashboard
-  [Dashboard file](https://github.com/Shaz-Techie/Personal-Finance/blob/main/Personal%20Finance.pbix)
-- Images of Dashboard
-  ![Finance Dashboard](https://github.com/user-attachments/assets/e77a69c4-47ca-478a-a8f4-9268f86e7b91)
-  ![Finance Dashboard 2](https://github.com/user-attachments/assets/b294c0b8-59e9-4be4-af16-a6dca745b2bc)
-
 
 #### Findings
 - The person saved 47 percent of his overall income till date.

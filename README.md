@@ -14,8 +14,8 @@ Bachelor of Engineering in Information Technology
 This project leverages a bank's dataset to analyze customer churn. The primary objective is to calculate the churn rate across different variables, identify key factors influencing churn, and provide actionable recommendations to reduce the churn rate.
 
 #### Images of Dashboard
-- ![Dashboard Image 1](https://github.com/user-attachments/assets/9fdb5bf9-2551-4f10-83fb-68d12d502d62)
-- ![Dashboard Image 2](https://github.com/user-attachments/assets/6f5334b1-96c2-4fd3-894b-e8cdd71d46a6)
+ ![Dashboard Image 1](https://github.com/user-attachments/assets/9fdb5bf9-2551-4f10-83fb-68d12d502d62)
+ ![Dashboard Image 2](https://github.com/user-attachments/assets/6f5334b1-96c2-4fd3-894b-e8cdd71d46a6)
 
 #### Requirements
 - What is the count of Total, Existing, Non Existing, Active, Inactive, Credit Card, Non Credit Card Customers.

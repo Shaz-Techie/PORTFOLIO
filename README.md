@@ -7,7 +7,14 @@ Bachelor of Engineering in Information Technology
 
 ## Projects
 ### Customer Churn Analysis for a Bank
-[Report Link]([https://www.mdpi.com/1424-8220/22/8/3048](https://app.powerbi.com/groups/me/reports/64d8e86c-e6a5-4da2-98b4-e6421b5bcc71/efb33b1c59ce71cfe823?experience=power-bi)
+[Report Link](https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank)
+
+#### Requirements
+- What is the count of Total, Existing, Non Existing, Active, Inactive, Credit Card, Non Credit Card Customers.
+- What is the count of Non Existing customers over time.
+- Which Customers are more likely to leave the bank credit Score, Gender, Tenure, Age Group, Geographical Location.
+- Comparison of count of Existing and Non Existing customers over time.
+  
 #### Findings:
 - About 20% of Total customers have left the bank which is double than the expected churn percentage(10%).
 - About 48% of customers are inactive.

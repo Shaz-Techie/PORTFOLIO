@@ -77,5 +77,75 @@ This project leverages a person's income, expenditure and savings dataset to ana
   Emergency Fund.
 - The person should also consider allocating a portion of their savings into retirement-specific components to ensure financial independence in the future.
 
+### 3.Road Accidents
+[<u>Link to github repo</u>](https://github.com/Shaz-Techie/Road-Accidents)
+
+#### Overview
+This project involves analyzing road accident data to gain insights that can help improve road safety. The analysis explores key variables such as road type, vehicle type, location, light conditions, and casualty type.
+
+#### Images of Dashboard
+ ![Dashboard Image](https://github.com/user-attachments/assets/3b08112a-9c96-4fd5-897b-7702b915718b)
+
+#### Requirements
+- What is the Total number of casualities for each year.
+- Casualities comparison for two years Month-on-Month.
+- Total Casualities by vehicle type for each year.
+- Total Casualities by location, Light Conditions, Road Type, Road Surface.
+  
+#### Findings:
+- Car casualities are the highest contributing 80% of the total.
+- Single Carriage Way roads record highest number of casualities.
+- 67% of casualities happened on Dry Road Surface.
+- Urban localities are more prone to casualities than rural counterparts.
+- More accidents took place during the day than night.
+- more than 7000 people died in casualities over two years while over 350,000 faced serious injuries. 
+
+#### Recommended Actions:
+- Investigate all possible reasons for car accidents(speed, alcohol, mobile usage etc.) and implement targeted road safety campaigns focusing on car drivers.
+- Review road infrastructure and consider converting single carriage way roads into dual carriageways where possible to reduce head-on collisions.
+- Investigate why such a high percentage of accidents occur on dry road surfaces. Focus on road conditions such as uneven surfaces,gripless roads, potholes, or loose gravel that could 
+  contribute to accidents even in dry conditions.
+- Install more traffic calming measures like speed bumps, roundabouts, and pedestrian crossings to reduce the number of accidents in urban areas.Increase awareness and safety campaigns 
+  targeting urban drivers and pedestrians.
+- Focus on improving emergency response systems by ensuring timely medical assistance and better-equipped hospitals in high-accident areas.
+
+### 4.Bike Sales Analysis
+[<u>Link to github repo</u>](https://github.com/Shaz-Techie/Bike-Sales-Analysis)
+
+#### Overview
+This project provides an interactive dashboard to analyze bike sales data. The dashboard helps to gain valuable insights into the performance of bike sales across various States, Stores, and Categories.
+
+#### Images of Dashboard
+![Dashboard Image 1](https://github.com/user-attachments/assets/41ed1757-d91a-445a-83c8-4686bebbd937)
+![Dashboard Image 2](https://github.com/user-attachments/assets/b4d95181-1de8-4df1-9a05-6f2d5ac3dca2)
+
+#### Requirements
+- What are the sales figure for three consecutive years(2021,2022,2023).
+- Which State has highest sales.
+- Which brand of bikes has highest sales.
+- Which store has got more sales.
+- Top ten customers and sales representatives by sales.
+- Compare sales across different categories of bikes.
+  
+#### Findings:
+- 2022 was the best year for bike sales generating over $3.8 millions.
+- In April 2022 there was a sharp increase in bike sales.
+- Trek Brand cycles are purchased the most for each year.
+- Sales in New York are highest.
+- Sales of Baldwin Bikes Store are highest.
+- Road and Mountains bikes are sold more than other categories.
+- Marcelene Boyer, Venita Daniel sold more bikes than any other representative.
+
+#### Recommended Actions:
+-  Analyze the factors that contributed to the success of 2022 (e.g., marketing campaigns, new product launches, seasonal factors) and try to replicate them in future years.
+-  Collaborate with Trek for special offers and consider exclusive promotions or targeted advertising for Trek bikes to maximize sales.
+-  Expand sales operations in New York. Focus on local trends, preferences and bike types.
+-  Investigate what Baldwin Bikes Store is doing well (e.g., customer service, product variety, location, promotions) and consider implementing these best practices across other stores.
+-  Ensure road and mountain bikes are always in stock and easily accessible to customers. Take surveys from customers to identify most liked subcategories and improvements in their 
+   designs.
+-  Recognize and reward the high performing representatives to create competition and boost the sales.
+-  Consider implementing a mentorship program where top sales reps like Venita can train others to replicate their success.
+  
+
 
   

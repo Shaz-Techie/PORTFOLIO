@@ -9,6 +9,10 @@ Bachelor of Engineering in Information Technology
 ### Customer Churn Analysis for a Bank
 [Report Link](https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank)
 
+### Images of Dashboard
+![Dashboard Image 1 resized for portfolio](https://github.com/user-attachments/assets/168dcfa7-28ef-4e83-b6da-bb0835e764cc)
+
+
 #### Requirements
 - What is the count of Total, Existing, Non Existing, Active, Inactive, Credit Card, Non Credit Card Customers.
 - What is the count of Non Existing customers over time.

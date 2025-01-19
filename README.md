@@ -7,7 +7,8 @@ Bachelor of Engineering in Information Technology
 
 ## Projects
 
-### 1.Customer Churn Analysis for a Bank [Link](https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank)
+### 1.Customer Churn Analysis for a Bank
+<u>[Link to github repo]</u>(https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank)
 #### Overview
 This project leverages a bank's dataset to analyze customer churn. The primary objective is to calculate the churn rate across different variables, identify key factors influencing churn, and provide actionable recommendations to reduce the churn rate.
 
@@ -42,7 +43,8 @@ This project leverages a bank's dataset to analyze customer churn. The primary o
 - Develop Targeted offerings for middle-aged customers. 
 
 
-### 2.Personal-Finance [Link](https://github.com/Shaz-Techie/Personal-Finance)
+### 2.Personal-Finance 
+<u>[Link to github repo]</u>(https://github.com/Shaz-Techie/Personal-Finance)
 
 #### Overview
 This project leverages a person's income, expenditure and savings dataset to analyse their saving and expenditure behaviour.
